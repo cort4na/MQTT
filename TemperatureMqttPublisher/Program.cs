@@ -28,6 +28,7 @@ namespace TemperatureMqttPublisher
 
                 myClient.Publish("measurements/temperature", Encoding.UTF8.GetBytes(strValue));
                 Thread.Sleep(1000);
+                Console.WriteLine(temperature);
             }
 
         }
