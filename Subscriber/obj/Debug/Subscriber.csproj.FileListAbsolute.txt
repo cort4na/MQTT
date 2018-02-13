@@ -1,0 +1,8 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\Subscriber\bin\Debug\Subscriber.exe.config
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\Subscriber\bin\Debug\Subscriber.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\Subscriber\bin\Debug\Subscriber.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\Subscriber\bin\Debug\M2Mqtt.Net.dll
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\Subscriber\bin\Debug\M2Mqtt.Net.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\Subscriber\obj\Debug\Subscriber.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\Subscriber\obj\Debug\Subscriber.pdb

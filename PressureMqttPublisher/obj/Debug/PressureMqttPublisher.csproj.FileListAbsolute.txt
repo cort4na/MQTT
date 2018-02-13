@@ -1,0 +1,17 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\TemperatureMqttPublisher\PressureMqttPublisher\bin\Debug\PressureMqttPublisher.exe.config
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\PressureMqttPublisher.exe.config
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\PressureMqttPublisher.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\PressureMqttPublisher.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\M2Mqtt.Net.dll
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\M2Mqtt.Net.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\PressureMqttPublisher\obj\Debug\PressureMqttPublisher.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\PressureMqttPublisher\obj\Debug\PressureMqttPublisher.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MqttHarjoitus2\PressureMqttPublisher\obj\Debug\PressureMqttPublisher.pdb
+C:\Temp\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\PressureMqttPublisher.exe.config
+C:\Temp\MqttHarjoitus2\PressureMqttPublisher\obj\Debug\PressureMqttPublisher.exe
+C:\Temp\MqttHarjoitus2\PressureMqttPublisher\obj\Debug\PressureMqttPublisher.pdb
+C:\Temp\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\PressureMqttPublisher.exe
+C:\Temp\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\PressureMqttPublisher.pdb
+C:\Temp\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\M2Mqtt.Net.dll
+C:\Temp\MqttHarjoitus2\PressureMqttPublisher\bin\Debug\M2Mqtt.Net.pdb
+C:\Temp\MqttHarjoitus2\PressureMqttPublisher\obj\Debug\PressureMqttPublisher.csprojResolveAssemblyReference.cache
